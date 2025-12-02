@@ -161,6 +161,7 @@ output "s3_website_endpoint" {
 
 ```bash
 terraform init
+terraform plan
 terraform apply
 ```
 
